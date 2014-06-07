@@ -7,10 +7,10 @@
     "ajax"
   ],
   "dependencies": {
-    "xhrerror": "chrisbuttery/xhrerror",
-    "for-in": "chrisbuttery/for-in",
+    "xhrerror": "git+https://git@github.com/chrisbuttery/xhrerror.git",
+    "for-in": "git+https://git@github.com/chrisbuttery/for-in.git",
     "xhr": "yields/xhr",
-    "component-emitter": "master"
+    "component-emitter": "1.1.2"
   },
   "files": [
     "index.js"
