@@ -10,7 +10,7 @@
     "xhrerror": "git+https://git@github.com/chrisbuttery/xhrerror.git",
     "for-in": "git+https://git@github.com/chrisbuttery/for-in.git",
     "xhr": "yields/xhr",
-    "component-emitter": "1.1.2"
+    "component-indexof": "0.0.3"
   },
   "files": [
     "index.js"
