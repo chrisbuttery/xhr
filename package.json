@@ -1,0 +1,20 @@
+{
+  "name": "xhr",
+  "version": "0.0.1",
+  "description": "Tiny, simple, xhr requests.",
+  "keywords": [
+    "xhr",
+    "ajax"
+  ],
+  "dependencies": {
+    "xhrerror": "chrisbuttery/xhrerror",
+    "for-in": "chrisbuttery/for-in",
+    "xhr": "yields/xhr",
+    "component-emitter": "master"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "license": "MIT"
+}
