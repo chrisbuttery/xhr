@@ -1,6 +1,6 @@
 var forIn = require('for-in'),
     xobj = require('xhr'),
-    indexof = require('indexof'),
+    indexof = require('component-indexof'),
     XhrError = require('xhrerror');
 
 function noop() { }
