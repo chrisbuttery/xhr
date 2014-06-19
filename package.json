@@ -2,10 +2,7 @@
   "name": "xhr",
   "version": "0.0.1",
   "description": "Tiny, simple, xhr requests.",
-  "keywords": [
-    "xhr",
-    "ajax"
-  ],
+  "main": "index.js",
   "dependencies": {
     "xhrerror": "git+https://git@github.com/chrisbuttery/xhrerror.git",
     "for-in": "git+https://git@github.com/chrisbuttery/for-in.git",
@@ -15,6 +12,6 @@
   "files": [
     "index.js"
   ],
-  "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true
 }
